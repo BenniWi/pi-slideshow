@@ -1,6 +1,7 @@
-﻿# Download Raspbian with Desktop
-# Download Balena Etcher
-# Flash Linux on SD card (e.g. using Balena Etcher)
+# Prerequisits
+* Download *Raspbian with Desktop*
+* Download *Balena Etcher*
+* Flash Linux on SD card (e.g. using Balena Etcher)
 
 # Install applications
 ```sh
